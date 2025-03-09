@@ -1,2 +1,2 @@
 # MeatConsumptionReduction
-This repository contains the R script for a structural equation model of meat consumption reduction and its psychosocial underpinnings. The data has not been published yet but I will add it to the repository as soon as possible.
+This repository contains the R script for a structural equation model of meat consumption reduction and its psychosocial underpinnings. The data has not been published yet but I will add it to the repository as soon as possible. Moreover, I manually installed the packages dynamic and lavaan.mi since the functions I needed weren't yet included in the versions you can install using the install() command in R. Both packages can be found on GitHub. 
